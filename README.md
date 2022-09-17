@@ -1,5 +1,5 @@
 # Collection of Wallpapers 
-##### 57 wallpapers
+##### 99 wallpapers
 ##### Most in 4k
 
 ![wallpapers](resources/Preview.png)
