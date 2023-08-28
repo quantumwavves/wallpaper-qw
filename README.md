@@ -3,10 +3,8 @@
   <img alt="GitHub" src="resources/prev.png">
   <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/quantumwavves/wallpaper-qw/All?label=Wallpapers&labelColor=%231e1e2e&color=%23b4befe
 "
-
 </p>
 </h1>
-
 
 ### My Personal Wallpaper Collection.
 
@@ -28,6 +26,5 @@ This is just my collection, and most of these wallpapers were made by others.
 ## Authors:
 
 If you are the creator of any of these images please create an issue and I will feature you here. ↓↓↓↓
-
 ___
 Hello everynyan (=^w^=)
