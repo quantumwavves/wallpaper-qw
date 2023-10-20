@@ -1,6 +1,6 @@
 <h1>
 <p align="center">
-  <img alt="GitHub" src="all/ganyu-hutao.png">
+  <img alt="GitHub" src="All/ganyu-hutao.png">
   <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/quantumwavves/wallpaper-qw/All?label=Wallpapers&labelColor=%231e1e2e&color=%23b4befe">
 </p>
 </h1>
